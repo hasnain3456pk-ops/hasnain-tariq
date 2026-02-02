@@ -1,3 +1,3 @@
 # hasnain-tariq
-This is my first Git Repository
-Author- HAsnain Tariq
+This is my first Git Repository.
+Author- Hasnain Tariq
